@@ -1,2 +1,1 @@
-# inventory_control_window
-# As anotações estão no ##
+Anotações estão dentro do código. 
